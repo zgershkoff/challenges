@@ -30,3 +30,10 @@ data = [5, 2, 4, 2, 7, 2]
 /
 
 ```
+
+## Euler solutions
+Solutions to selected Problem Euler problems. Only problems 1-100 are
+allowed to be shared.
+
+Most of these are in python, but some of them leverage sagemath and
+can be run in the command line with `sage example.py`.
